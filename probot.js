@@ -824,4 +824,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("token Your Bot Here");  // توكن حقق
+cclient.login(process.env.TOKEN);  // توكن حقق
